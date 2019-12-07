@@ -9,7 +9,6 @@ const ColoredDiv = styled.div`
     color: #fff;
 `
 
-
 const ReducerButton = () => {
     const ref = useRef<HTMLDivElement>(null!)
     
